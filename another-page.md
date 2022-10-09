@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Skills and Badges
+Coming soon...
 
 _yay_
 

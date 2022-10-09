@@ -20,11 +20,12 @@
 
 title: Jennifer White
 email: me@jenniferwhite.tech
-description: This site is to keep track of Jennifer's technical projects, past and present. 
+description: This site is currently Under Construction!!
  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jenniferwhite.tech" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Jennifer-White
+
 
 # Build settings
 remote_theme: pages-themes/hacker@v0.2.0

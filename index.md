@@ -2,122 +2,17 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+
+# Who is Jennifer White?
+
+With over a decade of experience in Cisco Networking & Microsoft Windows administration plus modern cloud skills (AWS, Azure, & GCP!) leveled-up by recent SANS classes, I'm ready to jump into a career in cybersecurity & clouds. The best asset I bring is my enthusiasm for technology that can't be learned! 
+
+My fascination with tech started in 3rd grade homeroom class where school's cool-factor was power-leveled by the introduction of two IBM PC's to the back corner of the classroom. Along with The Oregon Trail game, the setup was used as an incentive to earn good grades (no issue there, so I got my playtime!) I was obsessed! I had to find out what made these machines work, but I'd have to wait until my teen years to start tackling that. Back then, I had to settle for crossing virtual rivers and packing enough supplies to hit the trail! My very own first-PC was a much later model, (Compaq Presario with an AMD K-6). I learned PC components and the ultra-modern Windows 95 with that rig- and I've been computing ever since!
+
+Transitioning into cybersecurity is a natural and necessary path for me after more than a decade of managing computer networks. Blue team/On-prem network & cloud security with maybe a splash of forensics is where I hope to land. CompTIA Security+ Certification will be attained Dec 2022 (back to the basics!!)
+
+# Badges and Skills 
+#### (Shameless self-promotion)
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1444
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
